@@ -3,3 +3,5 @@ Abordagem híbrida para resolver o caixeiro viajante com seleção de hotéis, c
 Código em Python.
 
 Utiliza um método heurístico com fator de aleatoriedade para gerar várias viagens respeitando as restrições do problema e em seguida combina essas viagens  de maneira ótima através de um modelo de programação inteira, utilizando o solver Gurobi.
+
+Link da apresentação no Prezi: http://prezi.com/z4jafz54fdkq/?utm_campaign=share&utm_medium=copy&rc=ex0share
